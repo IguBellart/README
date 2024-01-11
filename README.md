@@ -4,5 +4,5 @@
 
 The first author we gonna talk is Cervantes, the first modern author in the all literature. He's from Spain.
 
-![Figure 1. Portrait of Miguel de Cervantes.] (https://github.com/IguBellart/README/blob/main/graduacion.png)
+![Figure 1. Portrait of Miguel de Cervantes.] (https://github.com/IguBellart/README/blob/main/Cervantes_Jáuregui.jpg)
 `Figure 1. Portrait of Miguel de Cervantes.`
